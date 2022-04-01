@@ -11,3 +11,4 @@ Configure Route 53 to check the health of your resources and to respond to DNS q
 docs.aws.amazon.comdocs.aws.amazon.com
 Registering domain names using Amazon Route 53 - Amazon Route 53
 Register new domain names using Amazon Route 53.
+- find the 4.8.34 on ocp https://mirror.openshift.com/pub/openshift-v4/clients/ocp/
