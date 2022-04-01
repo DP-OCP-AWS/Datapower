@@ -20,15 +20,18 @@ docs.aws.amazon.comdocs.aws.amazon.com
 - Make sure to enable the installation from your device setting.
   <details>
     <summary> Warning </summary>
+  
     ![Warining Screen](images/enable-install.png "enable the installation")
   </details>
 - Allow the install
   <details>
     <summary> Allow </summary>
+  
     ![Warining Screen](images/always-allow.png "Click on Always allow")
   </details>
 - Open 
   <details>
     <summary> Press open </summary>
+  
     ![Warining Screen](images/press-open.png "Click on Open")
   </details>
