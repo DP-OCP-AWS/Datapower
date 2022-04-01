@@ -25,7 +25,7 @@ docs.aws.amazon.comdocs.aws.amazon.com
   </details>
 - Allow the install
   <details>
-    <summary> Allow </summary>
+    <summary> Allow Anyway </summary>
   
     ![Warining Screen](images/always-allow.png "Click on Always allow")
   </details>
