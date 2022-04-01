@@ -12,3 +12,9 @@ docs.aws.amazon.comdocs.aws.amazon.com
 - Registering domain names using Amazon Route 53 - Amazon Route 53
 - Register new domain names using Amazon Route 53.
 - find the 4.8.34 on ocp https://mirror.openshift.com/pub/openshift-v4/clients/ocp/4.8.34/
+- Find the `install-config.yaml` and add it to the openshift-install folder.
+- run that command 
+  ```bash
+  ./openshift-install create cluster --dir=.
+  ```
+- Make sure to 
