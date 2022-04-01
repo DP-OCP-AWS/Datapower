@@ -18,7 +18,17 @@ docs.aws.amazon.comdocs.aws.amazon.com
   ./openshift-install create cluster --dir=.
   ```
 - Make sure to enable the installation from your device setting.
-<details>
-  <summary> Warning </summary>
-   ![Warining Screen](images/enable.png)
-</details>
+  <details>
+    <summary> Warning </summary>
+     ![Warining Screen](images/enable-install.png)
+  </details>
+- Allow the install
+  <details>
+    <summary> Allow </summary>
+     ![Warining Screen](images/always-allow.png)
+  </details>
+- Open 
+  <details>
+    <summary> Press open </summary>
+     ![Warining Screen](images/press-open.png)
+  </details>
