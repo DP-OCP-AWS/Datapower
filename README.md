@@ -35,3 +35,8 @@ docs.aws.amazon.comdocs.aws.amazon.com
   
     ![Warining Screen](images/press-open.png "Click on Open")
   </details>
+> NOTE
+> ERASE everything
+```bash
+./openshift-install destroy cluster --dir=. --log-level info
+```
