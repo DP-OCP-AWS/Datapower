@@ -40,3 +40,4 @@ docs.aws.amazon.comdocs.aws.amazon.com
 ```bash
 ./openshift-install destroy cluster --dir=. --log-level info
 ```
+### Pipleline [resource](https://github.com/cs-tsui/datapower-tekton-deploy-cicd)
